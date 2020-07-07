@@ -1,0 +1,107 @@
+@media (max-width: 779px){
+    .img-celular{
+        display: none;
+    }
+
+    .nav-footer-login{
+        width: 345px;
+    }
+
+    .li-footer{
+        margin-bottom: 10px;
+    }
+
+    .section-login{
+        height: 600px;
+    }
+
+    .div-btn-buscar-general{
+        display: none;
+    }
+
+    .section-contraseña{
+        margin-bottom: 50px;
+    }
+
+    .div-img-logoInstagram-general{
+        width: 20%;
+     }
+     
+     .img-logoInstagran-general{
+         width: 100%;
+     }
+
+    .nav{
+        float: right;
+        margin-right: 30px;
+    }
+
+}
+
+@media (max-width: 360px){
+    *{
+        background-color: white;
+    }
+
+    .div-datos-login{
+        border: none;   
+    }
+
+    .div-registro{   
+        border: none;
+    }
+
+    .div-volverinicio{    
+        border: none;
+    }
+
+    .div-datos-contraseña{    
+        border: none;   
+    }
+
+
+}
+   
+
+@media (max-width: 1300px){
+    .amigos{
+        right: 3%;
+    }
+    .contenedor{
+        margin-left: 15%;
+    }
+    .cuadrosuperior{
+        margin-left: 15%;
+    }
+}
+
+@media (max-width: 1037px){
+    .amigos{
+        display: none;
+    }
+    .div-inicio{
+        justify-content: center;
+    }
+    .contenedor{
+        margin-left: 0px;
+    }
+    .cuadrosuperior{
+        margin-left: 0px;
+    }
+}
+
+@media (max-width: 600px){
+    .div-inicio{
+        display: block;
+    }
+
+    .cuadrosuperior{
+        display: none;
+        text-align: center;
+    }
+}
+
+
+
+
+
